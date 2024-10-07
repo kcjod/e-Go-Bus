@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541219488751",
+    "project_id": "egobus-224f5",
+    "storage_bucket": "egobus-224f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541219488751:android:c72179919747845e5eac1a",
+        "android_client_info": {
+          "package_name": "com.example.ego_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe16pFAPF4H6YKftfm7H00ahME22hMsoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
